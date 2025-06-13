@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Sanjana Ratan
 
 🎓 AI Enthusiast | 💻 Developer | ☁️ Cloud Explorer | 🧠 GenAI Practitioner  
-📍 Based in Bangalore | 📫 vsanjanaratan07@gmail.com | 🌐 [My Portfolio]() |
+📍 Based in Bangalore | 📫 vsanjanaratan07@gmail.com | 🌐 [My Portfolio](https://aiwithsanj.framer.website/) |
 
 ---
 
